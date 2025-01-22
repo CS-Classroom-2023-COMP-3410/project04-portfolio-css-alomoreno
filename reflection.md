@@ -1,0 +1,3 @@
+Reflection: 
+
+I began knowing I wanted a simplistic design, but struggled with finding ways to make a simplistic design still look interesting. I searched up several ideas to find one that drew my attention, and that is when I found the hero sectio infintie scroll for my home page. That was going to be my center focus, the rest was just tweaking it to meet the responsive criteria. Another bump was when I saw the format of the gallery section, I didn't like how the images were combined together. I then decided to format it similar to the Pinterest style, with rounded images and a zoom like feature. This created several issues and required a long period of tweaks. The next set of issues was uploading to a new files to the responsive folder. 
